@@ -1,3 +1,4 @@
 ## Repo for pre-built conda environments for users
-1. `git clone https://github.com/fourzerosix/conda-envs.git` or `git clone `
-   `conda env create -f <environment>.yaml`
+Load your conda flavour of choice . . .
+  `git clone https://github.com/fourzerosix/conda-envs.git && cd conda-envs/`  
+  `conda env create -f <environment>.yaml`  
